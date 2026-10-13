@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_UEB-023" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="210" rx="14" fill="url(#bgGrad_UEB-023)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Banner with exercise ID and Split -->
+  <rect x="0" y="0" width="300" height="25" rx="14" fill="#047857"/>
+  <rect x="0" y="12" width="300" height="13" fill="#047857"/>
+  <text x="15" y="17" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#ffffff" opacity="0.85">UEB-023</text>
+  <text x="150" y="17" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffffff" letter-spacing="0.5">UNTERKÖRPER • MASCHINE</text>
+  
+  <!-- Unique Motion Drawing -->
+  <g id="illustration_UEB-023">
+    
+  <!-- Seated machine -->
+  <rect x="85" y="130" width="45" height="8" fill="#334155"/>
+  <rect x="80" y="85" width="8" height="45" rx="2" fill="#0284c7"/> <!-- Backrest -->
+  <circle cx="95" cy="72" r="9" fill="#f59e0b"/>
+  <line x1="95" y1="82" x2="95" y2="130" stroke="#1e293b" stroke-width="8"/>
+  <!-- Thighs horizontal on seat -->
+  <line x1="95" y1="130" x2="140" y2="130" stroke="#1e293b" stroke-width="8"/>
+  <!-- Shin extending straight out horizontally -->
+  <line x1="140" y1="130" x2="185" y2="130" stroke="#e11d48" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="180" cy="130" r="7" fill="#0f172a"/> <!-- Shin pad -->
+  <!-- Extension upward curve -->
+  <path d="M 140,165 A 35 35 0 0 1 180,135" stroke="#059669" stroke-width="3" fill="none"/>
+  <text x="185" y="115" font-size="9" font-family="sans-serif" font-weight="bold" fill="#059669">STRECKEN</text>
+
+  </g>
+  
+  <!-- Bottom info bar -->
+  <rect x="8" y="184" width="284" height="20" rx="6" fill="#0f172a" opacity="0.06"/>
+  <text x="150" y="198" font-family="system-ui, sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle" fill="#1e293b">Beinstrecker-Maschine</text>
+</svg>

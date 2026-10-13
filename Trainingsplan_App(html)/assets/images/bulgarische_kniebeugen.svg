@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_UEB-018" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="210" rx="14" fill="url(#bgGrad_UEB-018)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Banner with exercise ID and Split -->
+  <rect x="0" y="0" width="300" height="25" rx="14" fill="#047857"/>
+  <rect x="0" y="12" width="300" height="13" fill="#047857"/>
+  <text x="15" y="17" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#ffffff" opacity="0.85">UEB-018</text>
+  <text x="150" y="17" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffffff" letter-spacing="0.5">UNTERKÖRPER • FREIGEWICHT</text>
+  
+  <!-- Unique Motion Drawing -->
+  <g id="illustration_UEB-018">
+    
+  <line x1="30" y1="180" x2="270" y2="180" stroke="#cbd5e1" stroke-width="3"/>
+  <!-- Small bench on left for rear foot -->
+  <rect x="55" y="145" width="45" height="8" rx="2" fill="#334155"/>
+  <rect x="62" y="153" width="6" height="25" fill="#475569"/>
+  <rect x="88" y="153" width="6" height="25" fill="#475569"/>
+  <!-- Rear leg on bench -->
+  <circle cx="150" cy="65" r="9" fill="#f59e0b"/>
+  <line x1="150" y1="75" x2="150" y2="120" stroke="#1e293b" stroke-width="8" stroke-linecap="round"/>
+  <line x1="150" y1="120" x2="90" y2="145" stroke="#1e293b" stroke-width="6" stroke-linecap="round"/>
+  <!-- Front leg squatting -->
+  <line x1="150" y1="120" x2="185" y2="125" stroke="#e11d48" stroke-width="8" stroke-linecap="round"/>
+  <line x1="185" y1="125" x2="185" y2="178" stroke="#1e293b" stroke-width="8" stroke-linecap="round"/>
+  <text x="145" y="45" font-size="9" font-family="sans-serif" font-weight="bold" fill="#059669" text-anchor="middle">FUSS AUF BANK</text>
+
+  </g>
+  
+  <!-- Bottom info bar -->
+  <rect x="8" y="184" width="284" height="20" rx="6" fill="#0f172a" opacity="0.06"/>
+  <text x="150" y="198" font-family="system-ui, sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle" fill="#1e293b">Bulgarische Kniebeugen</text>
+</svg>

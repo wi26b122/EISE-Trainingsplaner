@@ -1,0 +1,41 @@
+id;name;dauer_min;art;split;anleitung;bild_dateiname
+UEB-001;Bankdrücken mit Kurzhanteln;10;Freigewicht;Oberkörper;Flach auf die Bank legen, Kurzhanteln kontrolliert zur Brust senken und kraftvoll nach oben drücken.;bankdruecken_kurzhantel.svg
+UEB-002;Langhantel-Schulterdrücken;10;Freigewicht;Oberkörper;Im aufrechten Stand oder Sitzen die Hantel vom Schlüsselbein über den Kopf drücken.;langhantel_schulterdruecken.svg
+UEB-003;Kurzhantel-Rudern vorgebeugt;10;Freigewicht;Oberkörper;Oberkörper nach vorne neigen, Rücken gerade halten und Hanteln in Richtung Hüfte ziehen.;kurzhantel_rudern.svg
+UEB-004;Klimmzüge (Körpergewicht);10;Freigewicht;Oberkörper;An die Klimmzugstange hängen, Schulterblätter anspannen und Brust zur Stange ziehen.;klimmzuege.svg
+UEB-005;Dips am Barren;10;Freigewicht;Oberkörper;Am Barren stützen, kontrolliert absenken bis 90° Ellbogenwinkel und hochdrücken.;dips.svg
+UEB-006;Kurzhantel-Seitheben;10;Freigewicht;Oberkörper;Aufrechter Stand, Hanteln seitlich bis auf Schulterhöhe anheben und absenken.;seitheben.svg
+UEB-007;Bizepscurls mit Kurzhanteln;10;Freigewicht;Oberkörper;Ellbogen fixieren und Hanteln kontrolliert durch Bizepskraft beugen.;bizepscurls.svg
+UEB-008;Brustpresse am Gerät;10;Maschine;Oberkörper;Sitzhöhe einstellen, Griffe fassen und kontrolliert nach vorne schieben.;brustpresse.svg
+UEB-009;Latzug zur Brust;10;Maschine;Oberkörper;Breiter Griff, Stange kontrolliert zum oberen Brustbereich ziehen.;latzug.svg
+UEB-010;Kabelzug Rudern sitzend;10;Maschine;Oberkörper;Aufrechter Sitz, Griff zum Bauchnabel ziehen und Schulterblätter zusammendrücken.;kabelzug_rudern.svg
+UEB-011;Schulterpresse-Maschine;10;Maschine;Oberkörper;Rücken fest am Polster, Griffe vertikal nach oben drücken.;schulterpresse.svg
+UEB-012;Butterfly (Pec Deck);10;Maschine;Oberkörper;Arme leicht gebeugt, Griffe vor der Brust zusammenführen.;butterfly.svg
+UEB-013;Trizepsdrücken am Kabelzug;10;Maschine;Oberkörper;Ellbogen fix am Körper halten, Seil/Stange nach unten drücken.;trizepsdruecken.svg
+UEB-014;Kabelzug Curls;10;Maschine;Oberkörper;Am Kabelzug stehen, Stange gleichmäßig zu den Schultern curlen.;kabelzug_curls.svg
+UEB-015;Langhantel-Kniebeugen;10;Freigewicht;Unterkörper;Hantel auf dem oberen Rücken platzieren, Hüfte nach hinten senken und aufstehen.;kniebeugen.svg
+UEB-016;Rumänisches Kreuzheben;10;Freigewicht;Unterkörper;Leichte Kniebeugung, Hantel an den Beinen entlang führen, Dehnung in Hamstrings spüren.;kreuzheben_rumaenisch.svg
+UEB-017;Ausfallschritte mit Kurzhanteln;10;Freigewicht;Unterkörper;Großen Schritt nach vorn machen, hinteres Knie Richtung Boden senken.;ausfallschritte.svg
+UEB-018;Bulgarische Kniebeugen;10;Freigewicht;Unterkörper;Hinteren Fuß auf einer Bank ablegen, vorderes Knie kontrolliert beugen.;bulgarische_kniebeugen.svg
+UEB-019;Goblet Squats;10;Freigewicht;Unterkörper;Kurzhantel vor der Brust halten, tief in die Hocke gehen und aufrichten.;goblet_squats.svg
+UEB-020;Wadenheben stehend mit Hantel;10;Freigewicht;Unterkörper;Auf Zehenspitzen drücken, Spitzenkontraktion halten und absenken.;wadenheben_freigewicht.svg
+UEB-021;Beckenheben (Hip Thrust) mit Langhantel;10;Freigewicht;Unterkörper;Schulterblätter an Bank stützen, Hantel auf Hüfte, Gesäß maximal anspannen.;hip_thrust.svg
+UEB-022;Beinpresse 45°;10;Maschine;Unterkörper;Füße schulterbreit auf Schlitten, Gewicht kontrolliert beugen und strecken (Knie nie durchdrücken).;beinpresse.svg
+UEB-023;Beinstrecker-Maschine;10;Maschine;Unterkörper;Polster auf den Schienbeinen, Beine kontrolliert gegen Widerstand strecken.;beinstrecker.svg
+UEB-024;Beinbeuger liegend;10;Maschine;Unterkörper;Bauchlage, Fersenpolster kontrolliert zum Gesäß heranziehen.;beinbeuger.svg
+UEB-025;Wadenheben an der Maschine;10;Maschine;Unterkörper;Schultern unter Polster, Fersen so weit wie möglich heben und senken.;wadenheben_maschine.svg
+UEB-026;Adduktoren-Maschine;10;Maschine;Unterkörper;Oberschenkel kontrolliert gegen die Polster nach innen führen.;adduktoren.svg
+UEB-027;Abduktoren-Maschine;10;Maschine;Unterkörper;Oberschenkel gegen die Polster kraftvoll nach außen drücken.;abduktoren.svg
+UEB-028;Glute-Drive-Maschine;10;Maschine;Unterkörper;Gurt anlegen, Hüfte nach oben stemmen und Po-Muskeln fest anspannen.;glute_drive.svg
+UEB-029;Klassisches Kreuzheben;10;Freigewicht;Ganzkörper;Hantel vom Boden heben, gerader Rücken, synchrone Streckung von Beinen und Hüfte.;kreuzheben_klassisch.svg
+UEB-030;Burpees mit Eigengewicht;10;Freigewicht;Ganzkörper;Aus dem Stand in die Liegestützposition fallen, Liegestütz machen und mit Strecksprung hoch.;burpees.svg
+UEB-031;Kettlebell Swings;10;Freigewicht;Ganzkörper;Hüftschwung nutzen, um die Kettlebell auf Brusthöhe zu schwingen.;kettlebell_swings.svg
+UEB-032;Thrusters (Kniebeuge + Stoßen);10;Freigewicht;Ganzkörper;Tiefe Kniebeuge mit Kurzhanteln vor der Schulter, Schwung direkt in Schulterdrücken mitnehmen.;thrusters.svg
+UEB-033;Farmer's Walk;10;Freigewicht;Ganzkörper;Zwei schwere Hanteln seitlich greifen, aufrecht und mit Körperspannung zügig gehen.;farmers_walk.svg
+UEB-034;Man Maker mit Hanteln;10;Freigewicht;Ganzkörper;Liegestütz auf Hanteln, je Seite rudern, heranspringen und Schulterdrücken.;man_maker.svg
+UEB-035;Ruderergometer (Concept2);10;Maschine;Ganzkörper;Aus den Beinen abstoßen, Oberkörper leicht nach hinten lehnen und Griff zum Bauch ziehen.;ruderergometer.svg
+UEB-036;Kabelzug Holzfäller (Woodchopper);10;Maschine;Ganzkörper;Diagonale Zugbewegung über den Rumpf von oben nach unten unter Rotation.;woodchopper.svg
+UEB-037;SkiErg-Maschine;10;Maschine;Ganzkörper;Griffe oben fassen, mit Rumpfbeuge und Knieeinsatz kräftig nach unten ziehen.;skierg.svg
+UEB-038;AirBike / Assault Bike;10;Maschine;Ganzkörper;Gleichzeitiges Treten und Drücken/Ziehen der Armhebel im Intervall.;airbike.svg
+UEB-039;Multistation Rumpfdrehen;10;Maschine;Ganzkörper;Becken stabilisieren, Oberkörper gegen Widerstand kontrolliert rotieren.;multistation_rumpf.svg
+UEB-040;Schlitten ziehen/schieben (Prowler);10;Maschine;Ganzkörper;Gewichtsschlitten mit Armen gestreckt und kraftvollem Beineinsatz schieben.;schlitten_prowler.svg

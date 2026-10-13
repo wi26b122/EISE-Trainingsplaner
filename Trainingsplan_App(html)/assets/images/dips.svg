@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_UEB-005" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="210" rx="14" fill="url(#bgGrad_UEB-005)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Banner with exercise ID and Split -->
+  <rect x="0" y="0" width="300" height="25" rx="14" fill="#1d4ed8"/>
+  <rect x="0" y="12" width="300" height="13" fill="#1d4ed8"/>
+  <text x="15" y="17" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#ffffff" opacity="0.85">UEB-005</text>
+  <text x="150" y="17" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffffff" letter-spacing="0.5">OBERKÖRPER • FREIGEWICHT</text>
+  
+  <!-- Unique Motion Drawing -->
+  <g id="illustration_UEB-005">
+    
+  <!-- Dip bars -->
+  <rect x="85" y="85" width="8" height="95" fill="#475569"/>
+  <rect x="205" y="85" width="8" height="95" fill="#475569"/>
+  <rect x="75" y="80" width="30" height="8" rx="3" fill="#334155"/>
+  <rect x="195" y="80" width="30" height="8" rx="3" fill="#334155"/>
+  <!-- Athlete suspended -->
+  <circle cx="150" cy="55" r="10" fill="#f59e0b"/>
+  <!-- Arms on handles -->
+  <line x1="150" y1="65" x2="100" y2="80" stroke="#e11d48" stroke-width="6" stroke-linecap="round"/>
+  <line x1="150" y1="65" x2="200" y2="80" stroke="#e11d48" stroke-width="6" stroke-linecap="round"/>
+  <!-- Torso & bent legs -->
+  <line x1="150" y1="65" x2="150" y2="120" stroke="#1e293b" stroke-width="8" stroke-linecap="round"/>
+  <line x1="150" y1="120" x2="165" y2="150" stroke="#1e293b" stroke-width="6" stroke-linecap="round"/>
+  <!-- Vertical movement arrow -->
+  <path d="M 150,135 L 150,165 M 145,158 L 150,166 L 155,158" stroke="#059669" stroke-width="3" fill="none"/>
+  <text x="150" y="180" font-size="9" font-family="sans-serif" font-weight="bold" fill="#059669" text-anchor="middle">SENKEN & STÜTZEN</text>
+
+  </g>
+  
+  <!-- Bottom info bar -->
+  <rect x="8" y="184" width="284" height="20" rx="6" fill="#0f172a" opacity="0.06"/>
+  <text x="150" y="198" font-family="system-ui, sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle" fill="#1e293b">Dips am Barren</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_UEB-038" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="210" rx="14" fill="url(#bgGrad_UEB-038)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <!-- Banner with exercise ID and Split -->
+  <rect x="0" y="0" width="300" height="25" rx="14" fill="#b45309"/>
+  <rect x="0" y="12" width="300" height="13" fill="#b45309"/>
+  <text x="15" y="17" font-family="system-ui, sans-serif" font-size="10" font-weight="bold" fill="#ffffff" opacity="0.85">UEB-038</text>
+  <text x="150" y="17" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffffff" letter-spacing="0.5">GANZKÖRPER • MASCHINE</text>
+  
+  <!-- Unique Motion Drawing -->
+  <g id="illustration_UEB-038">
+    
+  <!-- Big front fan wheel -->
+  <circle cx="190" cy="135" r="30" fill="#0f172a"/>
+  <circle cx="190" cy="135" r="18" fill="#e2e8f0"/>
+  <!-- Bike frame & seat -->
+  <line x1="110" y1="165" x2="190" y2="135" stroke="#334155" stroke-width="4"/>
+  <rect x="95" y="115" width="22" height="6" rx="2" fill="#0284c7"/> <!-- Saddle -->
+  <!-- Long moving handlebar levers -->
+  <line x1="170" y1="140" x2="155" y2="65" stroke="#475569" stroke-width="5" stroke-linecap="round"/>
+  <!-- Athlete seated, pushing handlebars -->
+  <circle cx="115" cy="85" r="9" fill="#f59e0b"/>
+  <line x1="115" y1="95" x2="105" y2="120" stroke="#1e293b" stroke-width="7"/>
+  <line x1="115" y1="98" x2="155" y2="80" stroke="#e11d48" stroke-width="6"/> <!-- Arm pushing lever -->
+  <!-- Alternating motion arrow -->
+  <path d="M 140,55 L 175,55 M 147,50 L 138,55 L 147,60" stroke="#059669" stroke-width="2.5" fill="none"/>
+  <text x="155" y="42" font-size="9" font-family="sans-serif" font-weight="bold" fill="#059669">DRÜCKEN & TRETEN</text>
+
+  </g>
+  
+  <!-- Bottom info bar -->
+  <rect x="8" y="184" width="284" height="20" rx="6" fill="#0f172a" opacity="0.06"/>
+  <text x="150" y="198" font-family="system-ui, sans-serif" font-size="10.5" font-weight="bold" text-anchor="middle" fill="#1e293b">AirBike / Assault Bike</text>
+</svg>
